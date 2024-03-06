@@ -7,6 +7,7 @@ export default function App() {
       <Text>Trapped Intellectuals!</Text>
       <Text>Trapped Tech!</Text>
       <Text>Trapped Technologies</Text>
+      <Text>Its all About learning Git and react Native</Text>
       <StatusBar style="auto" />
     </View>
   );

@@ -5,6 +5,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Trapped Intellectuals!</Text>
+      <Text>Trapped Tech!</Text>
+      <Text>Trapped Technologies</Text>
       <StatusBar style="auto" />
     </View>
   );
